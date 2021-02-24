@@ -5,11 +5,7 @@
     </head>
     <body>
         <img src="images/Me.jpg" id="me">
-        <header style="text-align: center; font-size: 45px; color: darkblue">
-            <b>
-                Katherine Grubb
-            </b>
-        </header>
+        Katherine Grubb
         [My Github](https://github.com/84katie84)
     </body>
 </html> 
