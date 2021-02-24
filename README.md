@@ -10,5 +10,6 @@
                 Katherine Grubb
             </b>
         </header>
+        [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/84katie84)
     </body>
 </html> 
